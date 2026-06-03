@@ -13,7 +13,7 @@ Simple AI-powered CLI that flags potentially duplicate QA test cases from a CSV 
 
 - Windows, macOS, or Linux
 - Python 3.12+ (project is configured with `requires-python = ">=3.12"`)
-- An OpenAI-compatible embeddings endpointgit 
+- An OpenAI-compatible embeddings endpoint 
 	- Default target is LM Studio local server at `http://localhost:1234/v1`
 - (For integration tests) LM Studio CLI `lms` available on your PATH
 
