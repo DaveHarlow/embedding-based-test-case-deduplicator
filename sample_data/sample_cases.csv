@@ -1,0 +1,4 @@
+ID,Title,Steps
+T1,Login as user with valid credentials,"1. Open user login page. 2. Enter valid email and password. 3. Click login button. 4. Confirm successful login."
+T2,Validate user sign-in process,"1. Open sign-in page. 2. Input valid credentials. 3. Submit and verify redirect to home dashboard."
+T3,Reset user password as administrator,"1. Open user administration. 2. Select user and trigger password reset. 3. Verify reset email is sent and new password works."
