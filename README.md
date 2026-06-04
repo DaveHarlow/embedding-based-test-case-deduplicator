@@ -27,7 +27,7 @@ Environment variables used by the app:
 |---|---|---|---|
 | `OPENAI_API_BASE` | No | `http://localhost:1234/v1` | Base URL for embeddings endpoint |
 | `OPENAI_API_KEY` | No | `dummy-key-for-local-lm-studio` | API key for endpoint auth |
-| `TEST_DEDUPLICATOR_FILE` | No | `sample_data/sample_cases.csv` | Input CSV path |
+| `TEST_DEDUPLICATOR_FILE` | Ywa | none | Input CSV path |
 | `TEST_DEDUPLICATOR_ID_COL` | Yes* | none | Unique test case ID column name |
 | `TEST_DEDUPLICATOR_TITLE_COL` | Yes* | none | Test title/summary column name |
 | `TEST_DEDUPLICATOR_BODY_COL` | Yes* | none | Steps/description column name |
